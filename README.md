@@ -6,7 +6,7 @@
 
 ### whoami
 
-I build client-side tools for India. No servers, no tracking, nothing leaves your device. Day job is graphic design at a school nearby.
+I build client-side tools for India. No servers, no tracking, nothing leaves your device.
 
 | | |
 |---|---|
