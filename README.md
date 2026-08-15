@@ -11,7 +11,6 @@ I build client-side tools for India. No servers, no tracking, nothing leaves you
 | | |
 |---|---|
 | 📍 Location | Murshidabad, West Bengal |
-| 🏛️ Org | [kache.space](https://kache.space) |
 | 🎯 Focus | Client-Side |
 | 🟢 Status | Building |
 
@@ -31,4 +30,4 @@ I build client-side tools for India. No servers, no tracking, nothing leaves you
 
 ### contact
 
-📧 hi@kache.space &nbsp;·&nbsp; 🌐 [kache.space](https://kache.space) &nbsp;·&nbsp; 🔴 [u/humayanx](https://reddit.com/u/humayanx)
+📧 humayan@exammint.in &nbsp;·&nbsp; 🌐 [exammint.in](https://exammint.in) &nbsp;·&nbsp; 🔴 [u/humayanx](https://reddit.com/u/humayanx)
