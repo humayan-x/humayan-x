@@ -1,21 +1,5 @@
 # humayanx
 
-> Independent Builder. Based in Murshidabad, West Bengal.
-
----
-
-### whoami
-
-I build client-side tools for India. No servers, no tracking, nothing leaves your device.
-
-| | |
-|---|---|
-| 📍 Location | Murshidabad, West Bengal |
-| 🎯 Focus | Client-Side |
-| 🟢 Status | Building |
-
----
-
 ### stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,4 +14,4 @@ I build client-side tools for India. No servers, no tracking, nothing leaves you
 
 ### contact
 
-📧 humayan@exammint.in &nbsp;·&nbsp; 🌐 [exammint.in](https://exammint.in) &nbsp;·&nbsp; 🔴 [u/humayanx](https://reddit.com/u/humayanx)
+📧 humayan@exammint.in &nbsp;·&nbsp; 🌐 [exammint.in](https://exammint.in)
